@@ -1,0 +1,7 @@
+D:\Repos\SumOfFirstNth\SumOfFirstNth\bin\Debug\SumOfFirstNth.exe.config
+D:\Repos\SumOfFirstNth\SumOfFirstNth\bin\Debug\SumOfFirstNth.exe
+D:\Repos\SumOfFirstNth\SumOfFirstNth\bin\Debug\SumOfFirstNth.pdb
+D:\Repos\SumOfFirstNth\SumOfFirstNth\obj\Debug\SumOfFirstNth.csprojAssemblyReference.cache
+D:\Repos\SumOfFirstNth\SumOfFirstNth\obj\Debug\SumOfFirstNth.csproj.CoreCompileInputs.cache
+D:\Repos\SumOfFirstNth\SumOfFirstNth\obj\Debug\SumOfFirstNth.exe
+D:\Repos\SumOfFirstNth\SumOfFirstNth\obj\Debug\SumOfFirstNth.pdb
